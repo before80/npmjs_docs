@@ -1,0 +1,3 @@
+MyDefLastUrlEle = "/npmjs_docs"
+# Enable Algolia DocSearch
+algolia_docsearch = true
